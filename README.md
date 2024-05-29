@@ -1,6 +1,9 @@
 ## 📈 GitHub Stats
-![hiteshsingh01's Stats](https://github-readme-stats.vercel.app/api?username=hiteshsingh01&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![hiteshsingh01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiteshsingh01&theme=dark&hide_border=false)
+<div align=center>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=hiteshsingh01&theme=dark&show_icons=true&hide_border=false&count_private=true" />
+  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshsingh01&theme=dark&hide_border=false" />
+</div>
+
 
 # Hi there 👋, I'm Hitesh Singh
 

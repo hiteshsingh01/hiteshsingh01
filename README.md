@@ -14,7 +14,7 @@ Web Developer with extensive experience in designing and developing dynamic, res
 - **Interpe Company** - Internship focused on web development, contributing to frontend and backend projects using modern web technologies.
 
 ## 📈 GitHub Stats
-![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsingh01&theme=dark&show_icons=true&hide_border=true&layout=compact))
+![hiteshsingh01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsingh01&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 Achievements
 - RED HAT CERTIFIED SYSTEM ADMINISTRATOR

@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there 👋 Hitesh Singh 
 
-<!--
-**hiteshsingh01/hiteshsingh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer with extensive experience in designing and developing dynamic, responsive websites. Proficient in HTML, CSS, JavaScript, and modern frameworks such as React and Node.js. Skilled in both front-end and back-end development, ensuring seamless integration and exceptional user experiences. Committed to writing clean, efficient code and staying current with industry trends and best practices.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -4,6 +4,7 @@
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshsingh01&theme=dark&hide_border=false" />
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=hiteshsingh01&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 # Hi there 👋, I'm Hitesh Singh
 

@@ -4,8 +4,6 @@
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshsingh01&theme=dark&hide_border=false" />
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=hiteshsingh01&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
-
 # Hi there 👋, I'm Hitesh Singh
 
 Web Developer with extensive experience in designing and developing dynamic, responsive websites. Proficient in HTML, CSS, JavaScript, and modern frameworks such as React and Node.js. Skilled in both front-end and back-end development, ensuring seamless integration and exceptional user experiences. Committed to writing clean, efficient code and staying current with industry trends and best practices.
@@ -32,3 +30,5 @@ Web Developer with extensive experience in designing and developing dynamic, res
 - 📧 Email: hiteshsingh2k4@gmail.com
 
 Thank you for visiting my profile! Feel free to check out my repositories and leave a star if you find something interesting. Let's connect and collaborate!
+
+[![](https://visitcount.itsvg.in/api?id=hiteshsingh01&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)

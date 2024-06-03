@@ -20,10 +20,10 @@ Web Developer with extensive experience in designing and developing dynamic, res
 - **Interpe Company** - Internship focused on web development, contributing to frontend and backend projects using modern web technologies.
 
 ## 🏆 Achievements
-- RED HAT CERTIFIED SYSTEM ADMINISTRATOR
+- RED HAT CERTIFIED SYSTEM ADMINISTRATOR.
 - Completed RS-CIT (Rajasthan State Certificate course in Information Technology)
-- Certified in Computer Graphics by NPTEL
-- Certified in UI/UX by Internshala
+- Certified in Computer Graphics by NPTEL.
+- Certified in UI/UX by Internshala.
 
 ## 💼 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/hiteshsingh01)
